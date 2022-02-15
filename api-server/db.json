@@ -1,0 +1,95 @@
+{
+    "trips": [
+      {
+        "id": "1",
+        "carrierId": "1",
+        "price": {
+          "clothing": "6",
+          "electronic": "10",
+          "document": "5"
+        },
+        "carrierType": {
+          "transportType": "air",
+          "type": "in person"
+        },
+        "dropOff": {
+          "dropOffStartDate": "Aug/20/2020",
+          "dropOffEndDate": "Aug/25/2020",
+          "departureDate": "Aug/28/2020",
+          "contact": {
+            "ph": "123456",
+            "email": "example@email.com",
+            "address": {
+              "street": "8830, 50th Avenue",
+              "city": "ELmhurst",
+              "state": "New York",
+              "country": " United States of America"
+            }
+          }
+        },
+        "pickUp": {
+          "pickUpStartDate": "Aug/20/2020",
+          "pickUpEndDate": "Aug/25/2020",
+          "arrivalDate": "Aug/23/2020",
+          "contact": {
+            "ph": "123456",
+            "email": "example@email.com",
+            "address": {
+              "street": "8830, 50th Avenue",
+              "city": "ELmhurst",
+              "state": "New York",
+              "country": " United States of America"
+            }
+          }
+        }
+      }
+    ],
+    "feedbacks": [
+      {
+        "id": "1",
+        "cid": "2",
+        "uid": "1",
+        "timestamp": "1596236968",
+        "rating": "3",
+        "comment": "she is the best person I ever worked with"
+      },
+      {
+        "id": "2",
+        "cid": "5",
+        "uid": "2",
+        "timestamp": "1596236968",
+        "rating": "5",
+        "comment": "I like her"
+      }
+    ],
+    "carriers": [
+      {
+        "id": "1",
+        "name": "Khin Lay Myint",
+        "contact": {
+          "ph": "123456",
+          "email": "example@email.com",
+          "address": {
+            "street": "8830, 50th Avenue",
+            "city": "ELmhurst",
+            "state": "New York",
+            "country": " United States of America"
+          }
+        }
+      },
+      {
+        "id": "I5lzthX",
+        "name": "Sann Min Win",
+        "contact": {
+          "ph": "6462344113",
+          "email": "sannminwin@gmail.com",
+          "address": {
+            "street": "90-11,35TH AVE, APT 2P",
+            "city": "Jackson Heights",
+            "state": "state",
+            "country": "Select Country"
+          }
+        }
+      }
+    ]
+  }

@@ -1,0 +1,15 @@
+.carrier {
+    padding-top: 60px;
+    .header {
+        padding-bottom: 15px;
+        text-align: center;
+        color: #00b0dc;
+    }
+    &__btn.ui.button {
+        margin-top: 15px;
+        margin-bottom: 15px;    
+    }
+    .ui.dropdown .menu {
+        display: block;
+    }
+}

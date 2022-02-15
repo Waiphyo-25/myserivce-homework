@@ -11,3 +11,103 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+i{
+  text-decoration: none;
+  
+}
+.logo_header{
+  text-align:center;
+  padding: 40px;
+}
+
+.city_form{
+  padding: 20px;
+  text-align: center;
+  display: block;
+}
+.city_wrapper{
+  display: inline-block;
+  border: 1px solid rgba(255,255,255,0.75);
+  border-radius: 16px;
+  width: 25%;
+  background: #f5efef;
+  box-shadow: 3px 5px rgba(0,0,0,0.2);
+  /* padding-right: 150px; */
+}
+.city{
+  padding: 5px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #313131;
+}
+.city input{
+  padding: 10px;
+  margin: 5px;
+  display: inline-block;
+  border: none;
+  background: transparent;
+}
+.city_from{
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+  display:block;
+}
+.logo_001 i{
+  display: inline-block;
+  color: #666;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 2;
+  margin-bottom: 40px;
+}
+.city_form .positive{
+  font-size: 20px;
+  padding: 20px;
+  width: 15%;
+  border-radius: 20px;
+}
+
+.main_menu{
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+  display: block;
+}
+.statistics_001{
+  display: inline-block;
+  border: 1px solid rgba(0,0,0,0.2);
+  border-radius: 16px;
+  box-shadow: 3px 5px rgba(0,0,0,0.2);
+  width: 40%;
+}
+.statistic{
+  display: inline-block;
+  padding: 40px;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.statistic .city{
+  font-weight: 800;
+  font-size: 24px;
+}
+.label{
+  font-size: 28px;
+  line-height: 2;
+}
+.statistic .icon_label i{
+  font-size: 24px;
+  font-weight: normal;
+  color: #313131;
+}
+.icon_label{
+  top: 50%;
+  position: absolute;
+ 
+}
+.drop_date{
+  font-weight: 800;
+  line-height: 2;
+}
+.price{
+  font-weight: 800;
+  line-height: 2;
+}
